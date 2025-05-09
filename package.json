@@ -25,9 +25,9 @@
   "homepage": "https://github.com/scottcorgan/toxic",
   "devDependencies": {
     "tap-spec": "^1.0.1",
-    "tape": "^3.0.3"
+    "tape": "^5.9.0"
   },
   "dependencies": {
-    "lodash": "^4.17.10"
+    "lodash": "^4.17.21"
   }
 }
